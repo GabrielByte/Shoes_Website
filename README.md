@@ -3,8 +3,8 @@ School project.
 Made with @VitorCezila
 
 # Screenshot
-![](screenshot/shoe0.png)
+![](Screenshot/shoe0.png)
 
-![](screenshot/shoe1.png)
+![](Screenshot/shoe1.png)
 
-![](screenshot/shoe2.png)
+![](Screenshot/shoe2.png)
